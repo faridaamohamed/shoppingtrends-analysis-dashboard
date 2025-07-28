@@ -9,6 +9,6 @@ This project contains:
 
 ## Files
 
-- `analysis.ipynb`: Data analysis with pandas
-- `data.csv`: Original data
-- `dashboard.pbix`: Power BI dashboard file
+- `data_analysis_sprint.ipynb`: Data analysis with pandas
+- `shopping_trends.csv`: Original data
+- `Dashboard.pbix`: Power BI dashboard file
